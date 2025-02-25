@@ -3,3 +3,5 @@ All of this files are from my learnings and exercises done in Boot.dev, if you f
 https://www.boot.dev/tracks/backend
 
 I'm also currently using this repo to see my past mistakes and learnings to compare in the future
+
+https://peps.python.org/pep-0020/#the-zen-of-python <-- hmmmm ah hmmmmmmm
